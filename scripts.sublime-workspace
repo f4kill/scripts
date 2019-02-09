@@ -1,0 +1,899 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"colum",
+				"column-gap\tproperty"
+			],
+			[
+				"rot",
+				"rotationCoef"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"flx",
+				"flex-direction\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"flex-start\talign-self"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fle",
+				"flex-grow\tproperty"
+			],
+			[
+				"res",
+				"resume-date"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tr",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"tra",
+				"transition-duration\tproperty"
+			],
+			[
+				"on",
+				"onScroll"
+			],
+			[
+				"cal",
+				"calculatePositionFixed"
+			],
+			[
+				"ca",
+				"calculateAbsoluteSize"
+			],
+			[
+				"an",
+				"animationDuration"
+			],
+			[
+				"del",
+				"delay"
+			],
+			[
+				"calcu",
+				"calculateAbsoluteSize"
+			],
+			[
+				"tran",
+				"transition-duration\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"hex",
+				"hexaCrawlDomParent"
+			],
+			[
+				"trans",
+				"transition-delay\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"cur",
+				"currLineColor"
+			],
+			[
+				"lin",
+				"lineColorFaded"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"new",
+				"newPoint"
+			],
+			[
+				"sect",
+				"sections"
+			],
+			[
+				"transition",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"e",
+				"ease-in-out\ttransition-timing-function"
+			],
+			[
+				"sca",
+				"scaleY()\ttransform"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"gen",
+				"generativeHudParent"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"gene",
+				"generativeHudParent"
+			],
+			[
+				"get",
+				"getRGB"
+			],
+			[
+				"wave",
+				"wavelengths"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"sanitize_text",
+				"sanitize_textarea_field"
+			],
+			[
+				"sanitize_tex",
+				"sanitize_text_field"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"admin",
+				"admin_menu"
+			],
+			[
+				"cream",
+				"cream-general-settings"
+			],
+			[
+				"crea",
+				"cream-theme-settings"
+			],
+			[
+				"fu",
+				"fun\tfunction …"
+			],
+			[
+				"doc",
+				"doc_link"
+			],
+			[
+				"cream-the",
+				"cream-theme-documentation"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"user",
+				"user-inactive"
+			],
+			[
+				"transitio",
+				"transition-timing-function"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"vjs",
+				"vjswrapper"
+			],
+			[
+				"video",
+				"videojs"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"hand",
+				"handleUserActiveVJS"
+			],
+			[
+				"back",
+				"backlabel"
+			],
+			[
+				"get_par",
+				"get_parent_theme_file_path"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"direcotr",
+				"get_template_directory_uri"
+			],
+			[
+				"cream_theme",
+				"cream_theme_settings"
+			],
+			[
+				"cream_add",
+				"cream_add_admin_menus"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"le",
+				"Length"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"popup",
+				"popupContent"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"cream-p",
+				"cream-popup-next"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"pll",
+				"pll_get_term"
+			],
+			[
+				"term",
+				"term_index"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ter",
+				"term_indexes"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"row",
+				"row_id"
+			],
+			[
+				"ord",
+				"ordercustom"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"pag",
+				"pageYOffset"
+			],
+			[
+				"kee",
+				"keepOffset"
+			],
+			[
+				"closest",
+				"closestSection"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"order",
+				"orderby"
+			],
+			[
+				"mxa",
+				"max-width"
+			],
+			[
+				"border-wi",
+				"border-left-width"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"curr",
+				"current_lang"
+			],
+			[
+				"tax",
+				"taxonomy"
+			],
+			[
+				"taxo",
+				"taxonomy-filter"
+			],
+			[
+				"post",
+				"posttype"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"fil",
+				"filter-out"
+			],
+			[
+				"filt",
+				"filter-out"
+			],
+			[
+				"worke",
+				"worker-card"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "startserv.sh",
+			"settings":
+			{
+				"buffer_size": 46,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stopserv.sh",
+			"settings":
+			{
+				"buffer_size": 44,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/AymericBiancoPelle/Documents/scripts"
+	],
+	"file_history":
+	[
+		"/Users/AymericBiancoPelle/.htaccess",
+		"/Volumes/SDData/Documents/Pro/Image Pro/Portfolio 2018/index.php",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Creaminal com/Code/style.css",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Creaminal com/Code/cream_theme/style.css",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site Web/Code/index.html",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site Web/Code/css/main.css",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/KinectHolographicEffect.cs",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/main.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/utilities.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/shortcodes.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/header.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/components/popup.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/footer.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/admin-menus.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/dashboard-widgets.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/postbox-edit.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-excerpt.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/StackBlur.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/index.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/functions.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content-excerpt.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/style.css",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/untitled.vue",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/custom-menu.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/navigation/navigation-social.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/widgets.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/profile/content.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-video.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/mini-gallery.html",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/custom-meta-boxes.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/profile/feed.php",
+		"/Users/AymericBiancoPelle/Desktop/info.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-none.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content-about.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content-noheader.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content-home.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/page/content-page-header.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/gallery-template.html",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/inc/custom-post-types.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/custom-meta-boxes.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/alm_templates/default.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/page-team.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/page-about.php",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/Dashboard/js/p5graph.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/page.php",
+		"/Users/AymericBiancoPelle/Downloads/test2.html",
+		"/Users/AymericBiancoPelle/Downloads/test.html",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-one-page.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-noheader.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/components/infinite_scroll.php",
+		"/Volumes/SDData/Documents/Pro/Creaminal/cream_theme/style.css",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-video.php.bak",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/Dashboard/js/map.js.bak",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/Dashboard/controller.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/home.php",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/Fake 3D sphere/js/main.js.bak",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/Fake 3D sphere/css",
+		"/Volumes/www/wordpress/wp-content/themes/twentyseventeen/header.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-profile.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/template-parts/post/content-about.php",
+		"/Volumes/www/wordpress/wp-content/plugins/ajax-load-more/core/src/scss/ajax-load-more.scss",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/instances/js/vars.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/jquery-compat.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/footer-inside-main.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/aos.js",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/css/style.css",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/css/themify-icons.css",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/mapbox pong/index.html",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/mapbox pong/js/main.js",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/coursEart-master/js/entities.js",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/coursEart-master/css/main.css",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/carte/js/main.js",
+		"/Volumes/SDData/Documents/E-artsup/Cours/js/carte/index.html",
+		"/Volumes/www/wordpress/wp-includes/widgets/class-wp-widget-categories.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/js/stackBlur.js",
+		"/Volumes/SDData/Documents/E-artsup/Tests/Web/DataViz/index.html",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/category.php",
+		"/Volumes/www/wordpress/wp-content/themes/cream_theme/css/style.css.bak",
+		"/Volumes/SDData/Documents/E-artsup/Tests/Web/DataViz/css/style.css",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/Code/cadeau.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/Code/karaoke.html",
+		"/Volumes/www/dev/wp-config.php",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/themify-icons/demo-files/demo.css",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/Code/Static - 1/untitled.html",
+		"/Users/AymericBiancoPelle/Library/Application Support/factorio/config/qwerty.ini",
+		"/Users/AymericBiancoPelle/Library/Application Support/factorio/config/set mac keyboard.sh",
+		"/Users/AymericBiancoPelle/Library/Application Support/factorio/config/set win keyboard.sh",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Signature mail/Script installation signature/install_signat.sh",
+		"/Users/AymericBiancoPelle/Library/Application Support/factorio/config/config.ini",
+		"/Users/AymericBiancoPelle/Downloads/youtube-player/styles.css",
+		"/Users/AymericBiancoPelle/Downloads/youtube-player/script.js",
+		"/Users/AymericBiancoPelle/Downloads/youtube-player/jquery.swfobject.1-1-1.min.js",
+		"/Users/AymericBiancoPelle/Downloads/youtube-player/youtube-player.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/Code/Static - 1/index.html",
+		"/Users/AymericBiancoPelle/Desktop/texte prez.txt",
+		"/Volumes/SDData/Documents/scalewaypublic",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Site corporate/Code/Static - 1/js/main.js",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/templates/player.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/css/stylesheet.css",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/templates/player/player.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/templates/player/player.js",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/index.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire v4.0/Code v4.0/Album browse/Mire Creaminal V4.sublime-project",
+		"/Users/AymericBiancoPelle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/AymericBiancoPelle/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire V4/Code V4/Creaminal MIR - beta_fichiers/common.js",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire V4/Code V4/Creaminal MIR - beta_fichiers/common.css",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire V4/Code V4/Creaminal MIR - beta_fichiers/contentScriptDialog.html",
+		"/Volumes/SDData/Documents/Pro/Creaminal/Mire V4/Code V4/Creaminal MIR - beta.html",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site web/data/Credits.csv",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site web/css/styles.css",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site web/index.html",
+		"/Users/AymericBiancoPelle/Downloads/Gotham Medium Webfonts | Hoefler & Co._fichiers/fonts_002.css",
+		"/Users/AymericBiancoPelle/Downloads/Gotham Medium Webfonts | Hoefler & Co._fichiers/fonts_003.css",
+		"/Users/AymericBiancoPelle/Downloads/Gotham Medium Webfonts | Hoefler & Co._fichiers/fonts_004.css",
+		"/Users/AymericBiancoPelle/Downloads/Gotham Medium Webfonts | Hoefler & Co._fichiers/fonts.css",
+		"/Users/AymericBiancoPelle/Downloads/wp-settings.php",
+		"/Volumes/SDData/Documents/E-artsup/Fontes/Gotham-Black.otf",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site web/Original/Original.html",
+		"/Volumes/SDData/Documents/E-artsup/Grand Projet/Site web/Original/Original_fichiers/styles.css",
+		"/Users/AymericBiancoPelle/Google Drive/Voice API/index.html",
+		"/Volumes/SDData/Documents/Pro/Guideknows/Code/Homepage + login/js/script.js",
+		"/Volumes/SDData/Documents/Pro/Guideknows/Code/Homepage + login/css/fonts.css",
+		"/Volumes/SDData/Documents/Pro/Guideknows/Code/Homepage + login/css/style.css",
+		"/Users/AymericBiancoPelle/Guideknows-Front/src/Templates/bookinglist.html",
+		"/Volumes/SDData/Documents/Pro/Guideknows/Code/Homepage + login/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "startserv.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stopserv.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "scripts.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
