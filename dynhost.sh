@@ -2,11 +2,10 @@
  
 #
 # CONFIG
+# For login credentials use .netrc
 #
  
 HOSTS=( first.host.name second.host.name )
-LOGIN=login
-PASSWORD=password
  
 PATH_LOG=/var/log/dynhost
  
@@ -40,7 +39,7 @@ do
 	        if [ "$HOST_IP" != "$CURRENT_IP" ]
 	        then
 	                echo "[$i] IP has changed" >> $PATH_LOG
-	                RES=`curl --user "$LOGIN:$PASSWORD" "https://www.ovh.com/nic/update?system=dyndns&hostname=$i&myip=$CURRENT_IP"`
+	                RES=`curl -n "https://www.ovh.com/nic/update?system=dyndns&hostname=$i&myip=$CURRENT_IP"`
 	                echo -n "[$i] Request result : " >> $PATH_LOG
 	                echo "$RES" >> $PATH_LOG
 	        else
