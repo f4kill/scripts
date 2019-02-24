@@ -4,21 +4,18 @@
 # CONFIG
 #
  
-HOSTS=( home.mrik.pw ftp.mrik.pw )
-LOGIN=mrik.pw-home
-PASSWORD=Yu8!8lrYeVkt
+HOSTS=( first.host.name second.host.name )
+LOGIN=login
+PASSWORD=password
  
 PATH_LOG=/var/log/dynhost
  
 #
-# GET IPs
+# ----
 #
- 
+
 CURRENT_IP=`curl -4 ifconfig.co`
- 
-#
-# LOG
-#
+
 echo > $PATH_LOG
 echo -n "Run dyndns " >> $PATH_LOG
 date >> $PATH_LOG
@@ -43,7 +40,7 @@ do
 	        if [ "$HOST_IP" != "$CURRENT_IP" ]
 	        then
 	                echo "[$i] IP has changed" >> $PATH_LOG
-	                RES=`curl --user "$LOGIN:$PASSWORD" "https://www.ovh.com/nic/update?system=dyndns&hostname=$HOST&myip=$CURRENT_IP"`
+	                RES=`curl --user "$LOGIN:$PASSWORD" "https://www.ovh.com/nic/update?system=dyndns&hostname=$i&myip=$CURRENT_IP"`
 	                echo -n "[$i] Request result : " >> $PATH_LOG
 	                echo "$RES" >> $PATH_LOG
 	        else
