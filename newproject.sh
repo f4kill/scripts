@@ -16,7 +16,7 @@ templatemenu ()
 }
 
 devdir=/Library/WebServer/Documents/projects/
-repourl=https://github.com/f4kill/templates/trunk/
+repourl=https://github.com/f4kill/templates/trunk/stencils/
 templates=()
 while IFS= read -r line; do
 		templates+=( "$line" )
