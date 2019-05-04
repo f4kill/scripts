@@ -15,7 +15,6 @@ PATH_LOG=/var/log/dynhost
 
 CURRENT_IP=`curl -4 ifconfig.co`
 
-echo > $PATH_LOG
 echo -n "Run dyndns " >> $PATH_LOG
 date >> $PATH_LOG
  
